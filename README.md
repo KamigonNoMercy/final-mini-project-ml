@@ -24,7 +24,8 @@ final-mini-project-ml/
 │ └─ Final_Project.pdf # Final project report (PDF)
 ├─ README.md # Project documentation
 ├─ LICENSE (MIT) # License information
-├─ requirements.txt (optional) # Python dependencies
+├─ requirements.txt  # Python dependencies
+├─ .gitignore
 ```
 
 ---
