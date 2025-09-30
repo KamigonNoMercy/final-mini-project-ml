@@ -14,6 +14,23 @@ The project demonstrates the end-to-end process of a machine learning workflow:
 
 ---
 
+## 📂 Dataset
+This project uses the **[Netflix Prize dataset](https://www.kaggle.com/datasets/netflix-inc/netflix-prize)**:  
+
+- Contains user ratings for **17,700 movies**.  
+- Total of **100,480,507 ratings** given by thousands of users on a **1–5 scale**.  
+- Ratings data is split across four large text files:  
+  - `combined_data_1.txt`  
+  - `combined_data_2.txt`  
+  - `combined_data_3.txt`  
+  - `combined_data_4.txt`  
+- Additional metadata (`movie_id`, `movie_titles`, `year_of_release`) is stored in a separate CSV file:  
+  - `movie_titles.csv`  
+
+These files together form the dataset used for exploration and model training.
+
+---
+
 ## 📂 Repository Structure
 ```
 final-mini-project-ml/
@@ -44,7 +61,8 @@ final-mini-project-ml/
 
 ## 📑 Reports
 ```
-reports/Final_Project.pdf
+├─ reports/Final_Project.pdf
+├─ reports/Final_Project.html
 ```
 
 ---
