@@ -43,7 +43,9 @@ final-mini-project-ml/
 ---
 
 ## 📑 Reports
+```
 reports/Final_Project.pdf
+```
 
 ---
 
