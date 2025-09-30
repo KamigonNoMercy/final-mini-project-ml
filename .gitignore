@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (opsional: jangan commit data mentah besar)
+data/*
+!data/.gitkeep
+
+# Reports (kalau ingin regenerate, bisa di-ignore; kalau mau tampilkan, hapus baris ini)
+# reports/*
+
+# System files
+.DS_Store
+Thumbs.db
