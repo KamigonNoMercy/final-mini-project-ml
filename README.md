@@ -38,7 +38,6 @@ final-mini-project-ml/
 │ └─ Final_Project.ipynb # Jupyter Notebook (main work)
 ├─ reports/
 │ ├─ Final_Project.html # Exported HTML version of notebook
-│ └─ Final_Project.pdf # Final project report (PDF)
 ├─ README.md # Project documentation
 ├─ LICENSE (MIT) # License information
 ├─ requirements.txt  # Python dependencies
